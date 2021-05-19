@@ -6,3 +6,8 @@ body .container {
 .nav-link {
     margin: 0px 30px;
 }
+.list-group-flush .list-group-item{
+    border: 0px;
+    font-size: 16px;
+    padding: 0rem 0rem;
+}
