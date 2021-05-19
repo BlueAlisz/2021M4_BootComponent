@@ -27,4 +27,12 @@ body .container {
     padding-bottom: 20px;
     border-bottom: 1px solid lightgrey;
     justify-content: center;
+    
+}
+.page-item .page-link {
+    color: black;
+}
+.follow {
+    text-align: center;
+    font-size: 13px;
 }
